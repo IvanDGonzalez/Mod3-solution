@@ -1,0 +1,109 @@
+
+
+
+#header-nav { 
+	background-color: orange;
+	border-radius: 0;
+	border: 0;
+	
+}
+
+#FoodLLC {
+
+	font-weight: bold;
+	padding: 15px;
+	margin-bottom: 20px; 
+	color: black;
+
+}
+
+#Our {
+	
+	text-decoration: underline;
+	color: black;
+	padding: 15px;
+	margin: 25px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+
+
+}
+
+section {
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+#S1 {
+	font-size: 15px;
+	color: white;
+	background-color: black;
+	margin: 10px;
+	padding: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+#Chickena {
+	color:  black;
+	font-size: 25px;
+	font-weight: bold;
+	
+
+}
+
+#S2 {
+	font-size: 15px;
+	color: white;
+	background-color: black;
+	margin: 10px;
+	padding: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+#Beefa {
+	color:  black;
+	font-size: 25px;
+	font-weight: bold;
+	
+}
+
+#S3 {
+	font-size: 15px;
+	color: white;
+	background-color: black;
+	margin: 10px;
+	padding: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+#Sushia {
+	color:  black;
+	font-size: 25px;
+	font-weight: bold;
+	
+}
+
+
+
+#Chicken {
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+#Beef {
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+#Sushi
+{
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+	#S1 {
+		margin: 60px;
+	}
+	#S2 {
+		margin: 60px;
+	}
+	#S3 {
+		margin: 60px;
+	}
+}
